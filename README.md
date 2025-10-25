@@ -2,13 +2,7 @@
 
 This project analyzes and visualizes **Indian Agriculture Data** using **Python** for preprocessing and **Power BI** for interactive dashboards.  
 It highlights crop production trends, yields, and state-wise performance to support data-driven decision-making in agriculture.
-
----
-
-## 📂 Project Structure
-- **Agri.ipynb** → Jupyter Notebook for preprocessing, cleaning, and preparing the dataset.  
-- **Agri.pbix** → Power BI dashboard file for interactive data visualization and insights.  
-
+ 
 ---
 
 ## 🔑 Features
